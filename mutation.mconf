@@ -1,0 +1,8 @@
+{ 
+  "gambit": {
+            "filename" : "contracts/tokens/CollectibleV1.sol",
+            "num_mutants": 20
+  },
+
+  "msg": "CollectibleV1 mutations"
+}
